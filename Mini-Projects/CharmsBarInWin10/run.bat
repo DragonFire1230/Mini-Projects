@@ -1,0 +1,2 @@
+python CharmsBar.py
+pause
